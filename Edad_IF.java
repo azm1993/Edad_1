@@ -9,7 +9,7 @@ public class age {
 		int edad;
 		Scanner can = new Scanner(System.in);
 		System.out.println("Contax9000");
-		System.out.println("Sea tan Amable de Introducir su edada");
+		System.out.println("Sea tan Amable de Introducir su edad");
 		edad = can.nextInt();
 		if (edad >= 18 )
 		{
